@@ -1,4 +1,5 @@
 #  прога для поиска админок на сайтах
+# (бета версия)
 
 import requests
 import webbrowser
