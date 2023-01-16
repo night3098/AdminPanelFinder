@@ -1,2 +1,2 @@
-# admin pages
+# Admin pages finder
 Beta version
