@@ -1,1 +1,1 @@
-# admin_pages
+# admin pages
